@@ -1,0 +1,59 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Tweetsmapx</string>
+    <string name="search_message">Search Tweets</string>
+    <string name="image_desc">image</string>
+
+    <string-array name="keywords_array">
+        <item>All</item>
+        <item>Me</item>
+        <item>You</item>
+        <item>Great</item>
+        <item>Life</item>
+        <item>Dream</item>
+        <item>Love</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="heatmap_text">Show HeatMap</string>
+    <string name="showtweetsmakersbutton_text">Show Tweets</string>
+    <string name="hidetweetsmakersbutton_text">Hide Tweets</string>
+    <string name="trendmap_text">Trend Map</string>
+    <string name="timeline_text">Time Line</string>
+    <string name="setting_text">Settings</string>
+    <string name="help_text">Help</string>
+    <string name="check_heatmapstring">Heat Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="detail_address">address</string>
+    <string name="police_stations">Police Stations in Victoria</string>
+    <string name="medicare">Medicare Offices</string>
+    <string name="attrib_format">Data from &lt;a href = "%s">data.gov.au&lt;/a>, modified under &lt;a href = \"http://creativecommons.org/licenses/by/3.0/au/\">CC BY 3.0 AU&lt;/a></string>
+    <string name="button_send">Go!</string>
+    <string name="radio_normalmap">Normal</string>
+    <string name="radio_hybridmap">Hybrid</string>
+    <string name="selectedkeyword_textview">Please specify keyword:</string>
+    <string name="defaultkeyword">All</string>
+    <string name="actionbar_refreshtext">Refresh</string>
+    <string name="showonmapbutton_text">Map</string>
+    <string name="image_text">Tweet</string>
+
+</resources>
