@@ -22,5 +22,12 @@ Main features:
   
 To-do list:
 
-  •	optimize the first time loading speed.
+  •	Optimize the first time loading speed.
+  
+  •	Improve the interface of Tweet timeline.
+  
+  •	Enhance search feature by adding non-predefined keyword search.
+  
+  
+  
   
